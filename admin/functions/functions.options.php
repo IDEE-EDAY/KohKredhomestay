@@ -469,7 +469,7 @@ $of_options[] = array( "name" => "Google Map Longitude",
 $of_options[] = array( "name" => "Google Map Marker Content",
 					"desc" => "",
 					"id" => "gmap-content",
-					"std" => "<h2>Soho Hotel</h2><p>1 Main Road, London, UK</p>",
+					"std" => "<h2>KohKred Homestay</h2><p>1 Main Road, London, UK</p>",
 					"type" => "textarea");
 
 $of_options[] = array( "name" => "Google Map Local Listings",

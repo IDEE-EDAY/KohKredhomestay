@@ -391,7 +391,7 @@ if( !function_exists( 'custom_js' ) ) {
 			$gmap_content = preg_replace('/\'/', '\\\'', $gmap_content);
 			echo "var googlemapMarker = '" . $gmap_content . "';";
 		} else {			
-			echo "var googlemapMarker = '<div class=\"gmap-content\"><h2>Soho Hotel</h2><p>1 Main Road, London, UK</p></div>';";
+			echo "var googlemapMarker = '<div class=\"gmap-content\"><h2>KohKred Homestay</h2><p>1 Main Road, London, UK</p></div>';";
 		}
 		
 		if ( $smof_data['slideshow_autoplay'] ) {

@@ -510,7 +510,7 @@
 = V1.8.2 - 09.01.2014 =
 * QNS Booking plugin version: 2.5.2
 
-* Fixed settings upgrade from Soho Hotel 1.5.x.  If you encountered upgrade errors in the previous update and this update does not fix them (e.g. errors during the booking process), please note down your current QNS Booking plugin settings.  Then go to QNS Booking > Maintenance > Reset plugin and click Run.  Dismiss the page installation prompt, then fill in your previous settings in each of the QNS Booking tabs
+* Fixed settings upgrade from KohKred Homestay 1.5.x.  If you encountered upgrade errors in the previous update and this update does not fix them (e.g. errors during the booking process), please note down your current QNS Booking plugin settings.  Then go to QNS Booking > Maintenance > Reset plugin and click Run.  Dismiss the page installation prompt, then fill in your previous settings in each of the QNS Booking tabs
     plugins/quitenicebooking/includes/quitenicebooking_settings.class.php
     themes/sohohotel/admin/classes/class.options_machine.php
 
