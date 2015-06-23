@@ -341,7 +341,7 @@ if( ! function_exists( 'qns_load_js' ) ) {
 			if( is_single() ) wp_enqueue_script( 'comment-reply' );
 			
 			// Load CSS
-			wp_enqueue_style('sohohotel-style', get_bloginfo('stylesheet_url'));
+			wp_enqueue_style('KohKredhomestay-style', get_bloginfo('stylesheet_url'));
 			
 			// Load Colour CSS
 			global $smof_data;
